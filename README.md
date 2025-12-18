@@ -4,7 +4,7 @@
 
 # 👋 Bonjour, je suis Marouan
 
-**Développeur en apprentissage passionné** | Autodidacte autistique avec une passion pour la logique, la structure et la création grâce au code.
+**Développeur en apprentissage en Première Année de BUT Informatique** | Etudiant atteinte de trouble autistique avec une passion pour la logique, la structure et la création grâce au code malgré quelque difficulté.
 
 ---
 
